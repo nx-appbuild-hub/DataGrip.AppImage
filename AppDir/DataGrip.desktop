@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DataGrip
+Comment=Viele Datenbanken, ein Tool
+Exec=AppRun %U
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=datagrip
+Categories=Development;
+StartupWMClass=datagrip
+StartupNotify=true

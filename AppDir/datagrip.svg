@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="datagrip-b" x1="43.141%" x2="61.14%" y1="9.448%" y2="76.362%">
+      <stop offset="0%" stop-color="#21D789"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="datagrip-a" points="45.494 30.321 48.487 45.174 64 36.145 59.919 9.949"/>
+    <linearGradient id="datagrip-d" x1="58.171%" x2="121.445%" y1="29.657%" y2="65.685%">
+      <stop offset="0%" stop-color="#21D789"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="datagrip-c" points="37.004 0 17.758 15.974 45.494 30.321 59.919 9.95"/>
+    <linearGradient id="datagrip-f" x1="76.487%" x2="11.306%" y1="74.898%" y2="32.709%">
+      <stop offset="0%" stop-color="#21D789"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="datagrip-e" points=".555 57.147 43 64 38.625 45 9.5 29.999"/>
+    <linearGradient id="datagrip-h" x1="26.387%" x2="76.472%" y1="50%" y2="96.746%">
+      <stop offset="0%" stop-color="#21D789"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="datagrip-g" points="0 29.541 43 64 48.15 45.83 35.501 32.812 5.875 3.626"/>
+    <linearGradient id="datagrip-j" x1="-3.701%" y1="45.537%" y2="31.189%">
+      <stop offset="0%" stop-color="#21D789"/>
+      <stop offset="53.151%" stop-color="#9789BE"/>
+      <stop offset="100%" stop-color="#FF45ED"/>
+    </linearGradient>
+    <polygon id="datagrip-i" points="0 29.541 55.544 48.627 59.919 9.95 0 .454"/>
+    <linearGradient id="datagrip-l" x1="50%" x2="50%" y1="-11.618%" y2="60.589%">
+      <stop offset="0%" stop-color="#A6A5A5"/>
+      <stop offset="0%" stop-color="#989898" stop-opacity=".568"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <polygon id="datagrip-k" points="0 40 40 40 40 0 0 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#21D789" xlink:href="#datagrip-a"/>
+    <use fill="url(#datagrip-b)" xlink:href="#datagrip-a"/>
+    <use fill="#21D789" xlink:href="#datagrip-c"/>
+    <use fill="url(#datagrip-d)" xlink:href="#datagrip-c"/>
+    <use fill="#21D789" xlink:href="#datagrip-e"/>
+    <use fill="url(#datagrip-f)" xlink:href="#datagrip-e"/>
+    <use fill="#21D789" xlink:href="#datagrip-g"/>
+    <use fill="url(#datagrip-h)" xlink:href="#datagrip-g"/>
+    <use fill="#21D789" xlink:href="#datagrip-i"/>
+    <use fill="url(#datagrip-j)" xlink:href="#datagrip-i"/>
+    <g transform="translate(12 12)">
+      <use fill="#000" xlink:href="#datagrip-k"/>
+      <use fill="url(#datagrip-l)" xlink:href="#datagrip-k"/>
+      <path fill="#FFF" d="M7.7402 8.376L7.7402 18.624 10.6302 18.624C13.6902 18.624 15.7542 16.561 15.7542 13.549L15.7542 13.5C15.7542 10.488 13.6902 8.376 10.6302 8.376L7.7402 8.376zM4.0002 5L10.6302 5C15.9722 5 19.6642 8.667 19.6642 13.451L19.6642 13.5C19.6642 18.284 15.9722 22 10.6302 22L4.0002 22 4.0002 5zM21 13.5674L21 13.5204C21 8.8084 24.67 4.9494 29.689 4.9494 32.673 4.9494 34.472 5.7544 36.2 7.2224L33.904 9.9924C32.625 8.9264 31.488 8.3114 29.571 8.3114 26.919 8.3114 24.812 10.6554 24.812 13.4724L24.812 13.5204C24.812 16.5504 26.896 18.7764 29.831 18.7764 31.157 18.7764 32.341 18.4454 33.265 17.7824L33.265 15.4144 29.595 15.4144 29.595 12.2654 36.792 12.2654 36.792 19.4634C35.088 20.9074 32.744 22.0904 29.713 22.0904 24.552 22.0904 21 18.4684 21 13.5674"/>
+      <polygon fill="#FFF" points="4 35 19 35 19 32.5 4 32.5"/>
+    </g>
+  </g>
+</svg>
