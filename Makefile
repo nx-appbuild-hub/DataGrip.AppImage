@@ -11,7 +11,7 @@ all:
 	rm -rf AppDir/opt
 	
 	mkdir --parents AppDir/opt/application
-	cp -r DataGrip-2020.1.2/* AppDir/opt/application
+	cp -r DataGrip-*/* AppDir/opt/application
 
 	chmod +x AppDir/AppRun
 	export ARCH=x86_64; bin/appimagetool.AppImage AppDir $(OUTPUT)
