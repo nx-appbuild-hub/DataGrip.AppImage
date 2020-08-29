@@ -1,4 +1,4 @@
-SOURCE="https://download-cf.jetbrains.com/datagrip/datagrip-2020.1.2.tar.gz"
+SOURCE="https://download-cf.jetbrains.com/datagrip/datagrip-2020.2.2.tar.gz"
 DESTINATION="build.tar.bz2"
 OUTPUT="DataGrip.AppImage"
 
